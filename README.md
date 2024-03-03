@@ -1,6 +1,6 @@
 # 👋🏾 Hey, I’m Dominion
 
-<img src="/avatar.jpeg" alt="Dominion Avatar" style="border-radius: 50%; width: 100px; height: 100px;">
+![Dominion Avatar](/avatar.jpeg)
 
 I am Dominion, a Software Engineer and Mobile Developer with advanced skills in Android Native and Cross-Platform development. I love tackling challenges and creating solutions to problems using new technologies.
 
@@ -14,7 +14,7 @@ I am Dominion, a Software Engineer and Mobile Developer with advanced skills in 
 
 I am passionate about technology and enjoy collaborating on various projects. Here's a glimpse of what I'm currently interested in:
 
-### ✅ I'm looking to collaborate or specialize in:
+### ✅ I'm looking to collaborate or specialize in
 
 - Full Stack Development - [Java] 😛
 - Cross-Platform Development - [Dart + Flutter] 🤲
@@ -23,7 +23,7 @@ I am passionate about technology and enjoy collaborating on various projects. He
 
 ## 💻 Skills
 
-### Programming Languages:
+### Programming Languages
 
 - HTML
 - CSS
@@ -36,15 +36,16 @@ I am passionate about technology and enjoy collaborating on various projects. He
 - Rust
 - C++
 
-### More Skills:
+### More Skills
 
 <details>
   <summary>Click to view</summary>
 
-  - API Development with Firebase
-  - State Management
-  - Adaptive UI for Responsiveness
-  - Firebase Integration
+- API Development with Firebase
+- State Management
+- Adaptive UI for Responsiveness
+- Firebase Integration
+
 </details>
 
 ## Get in Touch
