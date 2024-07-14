@@ -1,56 +1,52 @@
 # 👋🏾 Hey, I’m Dominion
 
-![Dominion Avatar](/avatar.jpeg)
-
-I am Dominion, a Software Engineer and Mobile Developer with advanced skills in Android Native and Cross-Platform development. I love tackling challenges and creating solutions to problems using new technologies.
+I am Dominion, a Software Engineer with advanced skills in Cross-Platform Mobile development. I love tackling challenges and creating solutions to problems using new technologies.
 
 ## Connect with Me
 
 - [Twitter](https://twitter.com/immadominion)
 - [LinkedIn](https://www.linkedin.com/in/imma-dominion-b4287725a/)
-- [Read my CV](https://read.cv/immadominion)
+- [Check my CV](https://read.cv/immadominion)
 
 ## About Me
 
 I am passionate about technology and enjoy collaborating on various projects. Here's a glimpse of what I'm currently interested in:
 
-### ✅ I'm looking to collaborate or specialize in
+### ✅ I'm looking to collaborate and specialize in
 
 - Full Stack Development - [Java] 😛
 - Cross-Platform Development - [Dart + Flutter] 🤲
-- Blockchain Projects - [Rust && React Typescript] 🧚
+- Blockchain Development - [Rust && React + Typescript] 🧚
 - Hackathons 🤩
 
 ## 💻 Skills
 
 ### Programming Languages
 
-- HTML
-- CSS
-- JavaScript
-- React
-- TypeScript
+- C++
+- Rust
 - Dart
+- Java
 - Python
 - Solidity
-- Rust
-- C++
+- JavaScript
+- TypeScript
 
 ### More Skills
 
 <details>
   <summary>Click to view</summary>
 
-- API Development with Firebase
+- API Consumption
 - State Management
 - Adaptive UI for Responsiveness
-- Firebase Integration
+- Collaborative AI
 
 </details>
 
-## Get in Touch
-
 Feel free to reach out if you're interested in collaborating or have exciting projects to discuss.
+
+🥂 Cheers
 
 ---
 
