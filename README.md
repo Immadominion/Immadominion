@@ -6,7 +6,6 @@ I am Dominion, a Software Engineer with advanced skills in Cross-Platform Mobile
 
 - [Twitter](https://twitter.com/immadominion)
 - [LinkedIn](https://www.linkedin.com/in/imma-dominion-b4287725a/)
-- [Check my CV](https://read.cv/immadominion)
 
 ## About Me
 
@@ -14,33 +13,37 @@ I am passionate about technology and enjoy collaborating on various projects. He
 
 ### ✅ I'm looking to collaborate and specialize in
 
-- Full Stack Development - [Java] 😛
+- Solana Mobile Stack Gigs😛
 - Cross-Platform Development - [Dart + Flutter] 🤲
-- Blockchain Development - [Rust && React + Typescript] 🧚
+- Blockchain Development - [Rust] 🧚
+- Developer Tooling
+- Open Source Contribution
+- Developer Education
+- Wokring with Solflare
 - Hackathons 🤩
 
 ## 💻 Skills
 
 ### Programming Languages
 
-- C++
-- Rust
-- Dart
-- Java
-- Python
-- Solidity
-- JavaScript
-- TypeScript
+- Dart (Main Stack)
+- Rust (Beginner)
+- I have used (Java, Javascript, Typescript, C++, Tauri, React)
 
 ### More Skills
 
 <details>
   <summary>Click to view</summary>
 
+- Problem solving
 - API Consumption
 - State Management
 - Adaptive UI for Responsiveness
-- Collaborative AI
+- Applying AI to solve real world problems
+- Pixel perfect UI replication
+- Quantitative reasoning
+- Documentation
+- Video Editing
 
 </details>
 
